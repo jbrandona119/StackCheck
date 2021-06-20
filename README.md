@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# StackCheck - Get started using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Are you owed money? Not sure if they paid up yet? Use StackCheck to check your stacks (you know...mulah, dinero, benjamins, quiche, cold hard cash!)
+
+StackCheck was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
