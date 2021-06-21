@@ -1,6 +1,6 @@
 # StackCheck - Get started using React
 
-Are you owed money? Not sure if they paid up yet? Use StackCheck to check your stacks (you know...mulah, dinero, benjamins, quiche, cold hard cash!)
+Did that client's cash get sent? Not sure if they paid up yet? Not sure if you paid their payor yet? Use StackCheck to check your stacks (you know...mulah, dinero, benjamins, quiche, cold hard cash!)
 
 StackCheck was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
